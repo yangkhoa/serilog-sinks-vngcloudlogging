@@ -1,4 +1,4 @@
-# Serilog.Sinks.GoogleCloudLogging
+# Serilog.Sinks.VngCloudLogging
 
 Serilog sink that writes events to [VNG Cloud Logging](https://vmonitor.console.vngcloud.vn/quota-usages/log).
 
